@@ -145,7 +145,7 @@ The pipeline follows the Retrieval-Augmented Generation (RAG) architecture, whic
 
 ### Benchmarking
 - Tested with diverse user queries to ensure robustness and adaptability.
-- Validated results with domain experts for theological and contextual accuracy.
+- Validated results with domain experts for theological and contextual accuracy
 
 ## Future Enhancements
 
